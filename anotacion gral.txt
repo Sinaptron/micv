@@ -13,7 +13,7 @@ https://jsbin.com/?html,output
 
 display por defecto esta en block (uno encima de otro), se debe definir inline-block, (para poner uno a lado de otro)
 
-
+usan puerto 80 conexion sin encriptar (http), puerto 443 los de conexion encriptada (https) (barra direccion aparece "secure"/candado)
 
 
 
