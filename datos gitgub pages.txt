@@ -1,0 +1,35 @@
+referencia a todas las eqtiquetas HTML
+https://www.w3schools.com/tags/ref_byfunc.asp
+https://www.w3schools.com/    (full)
+
+etiquetas vacias html, que se cierran solas, ejemplos:
+<img src="images/firefox-icon.png" alt="" />
+Los elementos vacíos en HTML son los siguientes:
+<area>  <base>  <br>  <col>  <embed>  <hr>  <img>
+<input>  <link>  <meta>  <param>  <source>  <track> <wbr>
+
+codificador en linea... parecido a codepen
+https://jsbin.com/?html,output
+
+display por defecto esta en block (uno encima de otro), se debe definir inline-block, (para poner uno a lado de otro)
+
+
+
+
+
+
+CONSEJOS:
+nunca poner espacios en nombres archivos, imagenes, etc
+hay 13 servidores raiz, con muchisimo mas servidores conectados, en todo el mundo
+https://www.ochobitshacenunbyte.com/2019/10/22/root-server-los-principales-dns-del-mundo/
+
+de preferencia solo deben haber un H1 (titulo prinicipal)
+
+solamente puede haber un "head" en la pagina pero si varios "header"
+pagina para saber mas sobre dns etc etc
+https://howdns.works/es/
+
+para buscar la referencia de un color, abrimos ggole, y tecleamos: color picker
+dos dara uan referencia de colores y codigos
+
+cada nueva seccion de l pagina... usar (section)
